@@ -1,0 +1,7 @@
+# _config.yml
+
+title: Wine Manager
+description: Gerenciador de múltiplas versões do Wine e seus prefixos no Linux.
+url: "https://wine-manager.github.io"
+baseurl: ""
+theme: jekyll-theme-cayman
